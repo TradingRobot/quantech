@@ -1,1 +1,1 @@
-# quantech_win32
+# quantech
