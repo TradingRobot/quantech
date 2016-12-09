@@ -90,7 +90,9 @@ can make your order
 ## Special introduction
 
 ###what is order type and how to choose appropriate order type?
+
 ![image](tutorial/image/order_type.png)
+
  order type        | meaning       | transaction prob.  
 --- | --- | ---
  Market            | buy or sell at market price, it can eat up the liquidity | immediate 
@@ -110,6 +112,11 @@ can make your order
  FOK               | fill or kill, your order can be dealed or canceled, only two status |middle 
  FAK               | fill and kill, your order can be partially filled the left will cancel      |middle 
 
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 ###what is time in force and how to choose appropriate time in force?
 ![image](tutorial/image/time_in_force.png)
