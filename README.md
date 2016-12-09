@@ -91,24 +91,24 @@ can make your order
 
 ###what is order type and how to choose appropriate order type?
 ![image](tutorial/image/order_type.png)
-| order type    | meaning       | transaction prob.  |
-| ------------- |:-------------:| -----:|
-| Market      | buy or sell at market price, it can eat up the liquidity | immediate |
-| Limit      | buy or sell at you specify price   |   middle  |
-| Best | buy at bid1 or sell at ask1      | middle |
-| Last | buy or sell at last price     | high |
-| Stop | close at market price when stop price triggered     | immediate |
-| StopLimit | close at limit price when stop price triggered     | middle |
-| TrailingStop | your stop price will change accroding to the market movement if triggered close at market price | middle |
-| TrailingStopLimit | your stop price will change accroding to the market movement if triggered close at limit price  | middle |
-| MarketOnOpen | as it said | low |
-| MarketOnClose | as it said | low |
-| MarketIfTouch | as it said | low |
-| LimitOnOpen | as it said | low |
-| LimitOnClose | as it said | low |
-| LimitIfTouch | as it said | low |
-| FOK | fill or kill, your order can be dealed or canceled, only two status |middle |
-| FAK | fill and kill, your order can be partially filled the left will cancel      |middle |
+ order type        | meaning       | transaction prob.  
+--- | --- | ---
+ Market            | buy or sell at market price, it can eat up the liquidity | immediate 
+ Limit             | buy or sell at you specify price   |   middle  
+ Best              | buy at bid1 or sell at ask1      | middle 
+ Last 		    | buy or sell at last price     | high 
+ Stop 		    | close at market price when stop price triggered     | immediate 
+ StopLimit 	    | close at limit price when stop price triggered     | middle 
+ TrailingStop      | your stop price will change accroding to the market movement if triggered close at market price | middle 
+ TrailingStopLimit | your stop price will change accroding to the market movement if triggered close at limit price  | middle 
+ MarketOnOpen 	    | as it said | low 
+ MarketOnClose     | as it said | low 
+ MarketIfTouch     | as it said | low 
+ LimitOnOpen       | as it said | low 
+ LimitOnClose      | as it said | low 
+ LimitIfTouch      | as it said | low 
+ FOK               | fill or kill, your order can be dealed or canceled, only two status |middle 
+ FAK               | fill and kill, your order can be partially filled the left will cancel      |middle 
 
 
 ###what is time in force and how to choose appropriate time in force?
