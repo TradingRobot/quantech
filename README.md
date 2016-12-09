@@ -1,5 +1,5 @@
 # Quantech : a high-performance trading software
-![image](tutorial/image/startup_screen.png)
+# ![image](tutorial/image/startup_screen.png)
 
 # Introduction
 
@@ -32,6 +32,16 @@ double click the Quantech.exe to start the program
 
 
 # Turorial
+i sure that you can learn this in less than 5 min
+
+## Overview
+
+## Detail
+
+## Special introduction
+
+# Contact
+trading_robot at outlook dot com
 
 # License
 
