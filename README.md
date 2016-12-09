@@ -65,17 +65,20 @@ press the account button,
 in the market data table, you can subscribe/unsubcribe the instrument you interest in (you must login first, or you
  will get nothing to subcribe), and the strategy only deal with the instrument you subcribed,
 right click the instrument you subscribed to take an action, multiple selection is supported.
+**double click to plot the instrument**
 
 ![image](tutorial/image/market_table.png)
 
 in the position table, you take action such like close, close all, lock, overweight etc. attension: the action in position table
 all make with market price type, so, if you use simulation account logined, your order will be rejected by the exchange, simulation
 account can only use limit price type and GFD time in force. just right click to see what happen, multiple selection is supported.
+**double click to close the position**
 
 ![image](tutorial/image/position_table.png)
 
 the most important table you should pay attention to is order table, it record what you have done and what the exchange
 reply to your order, when something unexpected happen, you can cancel or cancel all your order, multiple selection is supported.
+**double click to cancel the order**
 
 ![image](tutorial/image/order_table.png)
 
@@ -88,6 +91,25 @@ can make your order
 
 ###what is order type and how to choose appropriate order type?
 ![image](tutorial/image/order_type.png)
+| order type    | meaning       | transaction prob.  |
+| ------------- |:-------------:| -----:|
+| Market      | buy or sell at market price, it can eat up the liquidity | immediate |
+| Limit      | buy or sell at you specify price   |   middle  |
+| Best | buy at bid1 or sell at ask1      | middle |
+| Last | buy or sell at last price     | high |
+| Stop | close at market price when stop price triggered     | immediate |
+| StopLimit | close at limit price when stop price triggered     | middle |
+| TrailingStop | your stop price will change accroding to the market movement if triggered close at market price | middle |
+| TrailingStopLimit | your stop price will change accroding to the market movement if triggered close at limit price  | middle |
+| MarketOnOpen | as it said | low |
+| MarketOnClose | as it said | low |
+| MarketIfTouch | as it said | low |
+| LimitOnOpen | as it said | low |
+| LimitOnClose | as it said | low |
+| LimitIfTouch | as it said | low |
+| FOK | fill or kill, your order can be dealed or canceled, only two status |middle |
+| FAK | fill and kill, your order can be partially filled the left will cancel      |middle |
+
 
 ###what is time in force and how to choose appropriate time in force?
 ![image](tutorial/image/time_in_force.png)
