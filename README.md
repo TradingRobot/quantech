@@ -4,8 +4,8 @@
 # Introduction
 
 In todays financial market of US, up to 99% of the brokers and traders use their own trading software which was build with
-quantitative analyse and math model for they can take the benefits of 1. Automated ¨C all strategy can be fully automated;
-2. Fast - use special network and special machine to send order; 3. Reliable ¨C built on robust architecture and state-of-the-art technologies;
+quantitative analyse and math model for they can take the benefits of 1. _Automated_ all strategy can be fully automated;
+2. _Fast_ use special network and special machine to send order; 3. _Reliable_ built on robust architecture and state-of-the-art technologies;
 but in todays china, we can not find such a dealer or software privider that privide the technolog or something you can use to
 take the benefits, and yes, you can find something like trade blazer or wenhua, but you must write the strategy yourself, and
 pay a good deal of money to buy the membership. ok, now that is why quantech comes! **it will let every one in the world to benefit from
