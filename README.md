@@ -98,4 +98,4 @@ trading_robot at outlook dot com
 
 # License
 
-Apache License 2.0 [license](license.txt)
+[Apache License 2.0](license.txt)
