@@ -52,7 +52,7 @@ double click the Quantech.exe to start the program
 i'm sure you can learn this staff within 10 min
 
 ## Overview
-when you start the program (i must confess the demo picture is suck)
+when you start the program (i must confess the demo picture is suck, open in new tab to see more clearly)
 ![image](tutorial/image/main_screen.png)
 
 press the account button, 
