@@ -34,15 +34,15 @@ it is free of charge and can be freely distributed.</b>
 # Installation
 
 
-## Windows
+### Windows
 clone/copy to your pc and install vc_redist.x86 which in the folder you cloned/copied
 
 
-## Linux
+### Linux
 to be done
 
 
-## macOS
+### macOS
 to be done
 
 
