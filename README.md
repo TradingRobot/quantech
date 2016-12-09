@@ -10,9 +10,10 @@ but in todays china, we can not find such a dealer or software privider that pri
 take the benefits, and yes, you can find something like trade blazer or wenhua, but you must write the strategy yourself, and
 pay a good deal of money to buy the membership. ok, now that is why quantech comes! 
 
-```
-**it will let every one in the world to benefit from the quantitative trading! it is free of charge and freely distributed**.
-```
+<pre>
+<b>it will let every one in the world to benefit from the quantitative trading! 
+it is free of charge and can be freely distributed.</b>
+</pre>
 
 # Main features
 
