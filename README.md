@@ -8,9 +8,11 @@ quantitative analyse and math model for they can take the benefits of 1. _Automa
 2. _Fast_ use special network and special machine to send order; 3. _Reliable_ built on robust architecture and state-of-the-art technologies;
 but in todays china, we can not find such a dealer or software privider that privide the technolog or something you can use to
 take the benefits, and yes, you can find something like trade blazer or wenhua, but you must write the strategy yourself, and
-pay a good deal of money to buy the membership. ok, now that is why quantech comes! **it will let every one in the world to benefit from
-the quantitative trading! it is free of charge and freely distributed**.
+pay a good deal of money to buy the membership. ok, now that is why quantech comes! 
 
+```
+**it will let every one in the world to benefit from the quantitative trading! it is free of charge and freely distributed**.
+```
 
 # Main features
 
