@@ -23,6 +23,7 @@ it is free of charge and can be freely distributed.</b>
 * multiple chart
 * multiple account
 * 100% hands free
+* straightward and easy-to-use
 * base on CTP Api
 
 # Recommand PC hardware
