@@ -1,6 +1,8 @@
 # Quantech : a high-performance trading software
 ![image](tutorial/image/startup_screen.png)
 
+# Introduction
+
 
 # Main features
 
@@ -13,7 +15,7 @@
 
 
 ## Windows
-clone to your pc and install vc_redist.x86 which in the folder you cloned
+clone/copy to your pc and install vc_redist.x86 which in the folder you cloned/copied
 
 
 ## Linux
@@ -31,3 +33,6 @@ double click the Quantech.exe to start the program
 
 # Turorial
 
+# License
+
+Apache License 2.0 [license](license.txt)
