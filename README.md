@@ -3,13 +3,30 @@
 
 # Introduction
 
+In todays financial market of US, up to 99% of the brokers and traders use their own trading software which was build with
+quantitative analyse and math model for they can take the benefits of 1. Automated ¨C all strategy can be fully automated;
+2. Fast - use special network and special machine to send order; 3. Reliable ¨C built on robust architecture and state-of-the-art technologies;
+but in todays china, we can not find such a dealer or software privider that privide the technolog or something you can use to
+take the benefits, and yes, you can find something like trade blazer or wenhua, but you must write the strategy yourself, and
+pay a good deal of money to buy the membership. ok, now that is why quantech comes! **it will let every one in the world to benefit from
+the quantitative trading! it is free of charge and freely distributed**.
+
 
 # Main features
 
 * programming in c++ integrated with intel TBB, berkeleyDB & QT
-* base on CTP Api
+* lock free & multicore programming
+* lapack & blas to do the math work
+* multiple chart
 * multiple account
+* 100% hands free
+* base on CTP Api
 
+# Recommand PC hardware
+
+* CPU : >= intel i3, intel i7 or xeon is prefered
+* Memory : >= 4GB, 8GB is prefered
+* Harddisk : >= 80GB, 1TB is prefered
 
 # Installation
 
@@ -45,19 +62,23 @@ press the account button,
 in the market data table, you can subscribe/unsubcribe the instrument you interest in (you must login first, or you
  will get nothing to subcribe), and the strategy only deal with the instrument you subcribed,
 right click the instrument you subscribed to take an action, multiple selection is supported.
+
 ![image](tutorial/image/market_table.png)
 
 in the position table, you take action such like close, close all, lock, overweight etc. attension: the action in position table
 all make with market price type, so, if you use simulation account logined, your order will be rejected by the exchange, simulation
 account can only use limit price type and GFD time in force. just right click to see what happen, multiple selection is supported.
+
 ![image](tutorial/image/position_table.png)
 
 the most important table you should pay attention to is order table, it record what you have done and what the exchange
 reply to your order, when something unexpected happen, you can cancel or cancel all your order, multiple selection is supported.
+
 ![image](tutorial/image/order_table.png)
 
 there has a pretty and fancy dialog named input order dialog, it is compact and has full functionality about how you
 can make your order
+
 ![image](tutorial/image/new_order.png)
 
 ## Special introduction
