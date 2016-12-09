@@ -112,15 +112,26 @@ can make your order
  FOK               | fill or kill, your order can be dealed or canceled, only two status |middle 
  FAK               | fill and kill, your order can be partially filled the left will cancel      |middle 
 
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+```
+Caution : if you use simulation account you can only use limit and GFD
+```
 
 ###what is time in force and how to choose appropriate time in force?
+
 ![image](tutorial/image/time_in_force.png)
 
+time in force  | meaning  
+--- | --- 
+GFS | good for section
+GFD | good for day
+GTD | good till day
+GTC | good till cancel
+GFA | good for auction
+IOC | immediate or cancel
+
+```
+Caution : if you use simulation account you can only use limit and GFD
+```
 
 # Contact
 trading_robot at outlook dot com
